@@ -26,7 +26,7 @@
     "pg": "^6.4.2",
     "pg-promise": "^5.9.7",
     "req-flash": "0.0.3",
-    "sequelize": "^3.33.0"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.6"
